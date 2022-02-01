@@ -1,3 +1,3 @@
 module GitHubPrac {
-	exports prac;
+	requires java.desktop;
 }

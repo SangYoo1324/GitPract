@@ -1,2 +1,3 @@
 module GitHubPrac {
+	exports prac;
 }
